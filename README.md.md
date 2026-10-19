@@ -62,7 +62,7 @@ Como invasores frequentemente tentam apagar seus vestígios nos arquivos locais 
 ## 📁 Materiais Gerados pelo Estúdio
 Os arquivos gerados automaticamente pela ferramenta a partir do corpus do projeto foram exportados e estão disponíveis na raiz deste repositório:
 * 🗺️ **Mapa Mental:** `mapa-mental-hardening-logs.png`
-* 📊 **Apresentação em Slides:** `slides-estrategia-cybersecurity.pptx
+* 📊 **Apresentação em Slides:** `slides-estrategia-cybersecurity.pdf
 
 ---
 
